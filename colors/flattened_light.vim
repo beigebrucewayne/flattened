@@ -10,7 +10,7 @@ endif
 
 let colors_name = 'flattened_light'
 
-hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=NONE
+hi Normal                                  cterm=NONE  ctermfg=4  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=NONE
 
 set background=light
 
