@@ -294,6 +294,11 @@ hi clear helpLeadBlank
 hi clear helpNormal
 hi clear pandocTableStructre
 
+" python extras
+
+hi pythonParameters ctermfg=2
+hi pythonBrackets ctermfg=1
+
 if has('nvim')
   let g:terminal_color_0  = '#eee8d5'
   let g:terminal_color_1  = '#dc322f'
