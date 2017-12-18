@@ -296,8 +296,8 @@ hi clear pandocTableStructre
 
 " python extras
 
-hi pythonParameters ctermfg=2
-hi pythonBrackets ctermfg=1
+hi pythonParameters cterm=NONE ctermfg=2
+hi pythonBrackets cterm=NONE ctermfg=1
 
 if has('nvim')
   let g:terminal_color_0  = '#eee8d5'
