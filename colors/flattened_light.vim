@@ -22,7 +22,7 @@ hi Constant                                cterm=NONE  ctermfg=6  guifg=#2aa198 
 hi Cursor                                  cterm=NONE  ctermfg=15  ctermbg=11  guifg=#fdf6e3  guibg=#657b83  gui=NONE
 hi CursorColumn                            cterm=NONE  ctermbg=7  guibg=#eee8d5  gui=NONE
 hi CursorLine                              cterm=NONE  ctermbg=7  guibg=#eee8d5  guisp=#586e75  gui=NONE
-hi CursorLineNr                            cterm=NONE  ctermfg=130  gui=NONE  guifg=Brown
+hi CursorLineNr                            cterm=NONE  ctermfg=130  gui=NONE  guifg=Blue
 hi DiffAdd                                 cterm=NONE  ctermfg=2  ctermbg=7  gui=NONE  guifg=#719e07  guibg=#eee8d5  guisp=#719e07  gui=NONE
 hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#b58900  guibg=#eee8d5  guisp=#b58900  gui=NONE
 hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#dc322f  guibg=#eee8d5  gui=NONE
@@ -65,8 +65,7 @@ hi Todo                                    cterm=NONE  ctermfg=5  guifg=#d33682 
 hi Type                                    cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 hi Underlined                              cterm=NONE  ctermfg=13  guifg=#6c71c4  gui=NONE
 hi VarId                                   cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
-" hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  guifg=#839496  guibg=#839496  gui=NONE
-hi clear VertSplit
+hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  guifg=#eee8d5  guibg=#eee8d5  gui=NONE
 hi Visual                                  cterm=reverse  ctermfg=14  ctermbg=15 gui=reverse  guifg=#93a1a1  guibg=#fdf6e3  guibg=NONE
 hi VisualNOS                               cterm=reverse  ctermbg=7 gui=reverse  guibg=#eee8d5  guibg=NONE
 hi WarningMsg                              cterm=NONE  ctermfg=9  gui=NONE  guifg=#dc322f  gui=NONE
