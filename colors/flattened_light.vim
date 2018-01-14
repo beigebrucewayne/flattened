@@ -15,7 +15,7 @@ hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  g
 set background=light
 
 hi ColorColumn                             cterm=NONE  ctermbg=7  guibg=#eee8d5  gui=NONE
-hi Comment                                 cterm=NONE  ctermfg=14 guifg=#beb9aa  gui=italic
+hi Comment                                 cterm=NONE  ctermfg=14 guifg=#c0bbab  gui=italic
 hi ConId                                   cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 hi Conceal                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi Constant                                cterm=NONE  ctermfg=6  guifg=#2aa198  gui=NONE
@@ -35,7 +35,7 @@ hi Folded                                  cterm=NONE,underline  ctermfg=11  cte
 hi HelpExample                             cterm=NONE  ctermfg=10  guifg=#586e75  gui=NONE
 hi Identifier                              cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#cb4b16
-hi LineNr                                  cterm=NONE  ctermfg=14  ctermbg=7  guifg=#beb9aa  gui=NONE
+hi LineNr                                  cterm=NONE  ctermfg=14  ctermbg=7  guifg=#c0bbab  gui=NONE
 hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#dc322f  guibg=#93a1a1  gui=NONE
 hi ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
