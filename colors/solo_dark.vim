@@ -1,7 +1,3 @@
-" 'flattened_dark.vim' -- Vim color scheme.
-" Maintainer:   Romain Lafourcade (romainlafourcade@gmail.com)
-" Description:  Dark Solarized, without the bullshit.
-
 hi clear
 
 if exists('syntax_on')
