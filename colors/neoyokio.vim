@@ -34,7 +34,9 @@ hi Todo			guifg=#424242		guifg=#424242	ctermfg=black	ctermfg=black
 hi Cursor		guifg=#424242		guifg=#424242		ctermfg=black	ctermfg=black
 hi Search		guifg=#424242		guifg=#424242	ctermfg=black	ctermfg=black
 hi IncSearch	guifg=#424242		guifg=#424242	ctermfg=black	ctermfg=black
-hi LineNr		guifg=#424242		ctermfg=black
+hi CursorLine guifg#e3afb2 guibg=#e3afb2
+hi CursorLineNr guifg=darkgray guibg=#e3afb2
+hi LineNr		guifg=darkgray		ctermfg=black
 hi title		guifg=#424242	gui=bold	cterm=bold
 
 hi StatusLine    cterm=none gui=none    guifg=white ctermfg=white guibg=black ctermbg=black
