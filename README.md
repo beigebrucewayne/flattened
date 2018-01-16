@@ -1,4 +1,4 @@
-Solarized, without the bullshit.
-================================
+Min Solo
+========
 
-Unlike Solarized itself, these Vim colorschemes are guaranteed to give consistent results in most environments without littering your beautiful `vimrc` with useless crap or paging through hundreds of StackOverflow questions to make sense of a needlessly convoluted setup.
+Borrows heavily from `romainl/flattened`. Largely the same, but with slight UI tweks. Mainly, making the LineNr, Comments, StatusLine and VertSplit more subtle.
