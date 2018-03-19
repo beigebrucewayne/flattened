@@ -206,9 +206,6 @@ hi vimIsCommand                            cterm=NONE  ctermfg=12  guifg=#839496
 hi vimSynMtchOpt                           cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 hi vimSynType                              cterm=NONE  ctermfg=6  guifg=#2aa198  gui=NONE
 
-hi pythonDot                               cterm=NONE ctermfg=4 guifg=#268bd2 gui=NONE
-hi pythonBrackets                          cterm=NONE ctermfg=9 guifg=#cb4b16 gui=NONE
-hi pythonDocstring                         cterm=NONE  ctermfg=14  ctermbg=7  guifg=#c0bbab  gui=NONE
 
 hi link Boolean                    Constant
 hi link Character                  Constant
