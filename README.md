@@ -6,5 +6,5 @@ Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). 
 ### Flattened (original)
 ![flattened](https://i.imgur.com/87Q9Ubw.png)
 
-### Min Solo (updated)
+### Subtle Solo (updated)
 ![minsolo](https://i.imgur.com/l3vLBk5.png)
