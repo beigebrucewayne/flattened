@@ -52,8 +52,8 @@ hi  SpellLocal                              cterm=undercurl  ctermfg=NONE  cterm
 hi  SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#2aa198  gui=undercurl
 hi  Statement                               ctermfg=2  guifg=#719e07  gui=NONE
 
-#hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#586e75  guifg=#073642
-#hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#586e75  guifg=#073642 
+"hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#586e75  guifg=#073642
+"hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#586e75  guifg=#073642 
 
 hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#1f4a54 guibg=#002b36
 hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#1f4a54 guibg=#002b36
