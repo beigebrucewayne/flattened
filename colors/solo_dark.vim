@@ -55,8 +55,8 @@ hi  Statement                               ctermfg=2  guifg=#719e07  gui=NONE
 "hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#586e75  guifg=#073642
 "hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#586e75  guifg=#073642 
 
-hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#1f4a54 guibg=#002b36
-hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#1f4a54 guibg=#002b36
+hi  StatusLine                              cterm=reverse  ctermfg=14  ctermbg=0  guibg=#1f4a54 guifg=#002b36
+hi  StatusLineNC                            cterm=reverse  ctermfg=11  ctermbg=0  guibg=#1f4a54 guifg=#002b36
 
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
