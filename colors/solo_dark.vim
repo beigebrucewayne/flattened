@@ -33,7 +33,7 @@ hi  Identifier                              ctermfg=4  guifg=#268bd2  gui=NONE
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#cb4b16  gui=standout
 " hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
 
-hi  LineNr                              ctermfg=14  ctermbg=0  guibg=#586e75  guifg=#073642
+hi  LineNr                              ctermfg=14  ctermbg=0  guifg=#586e75  guibg=#073642
 
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#dc322f  guibg=#586e75  gui=NONE
 hi  ModeMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
