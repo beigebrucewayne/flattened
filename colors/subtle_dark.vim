@@ -4,7 +4,7 @@ if exists('syntax_on')
   syntax reset
 endif
 
-let colors_name = 'solo_dark'
+let colors_name = 'subtle_dark'
 
 hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#839496  guibg=#002b36  gui=NONE
 
@@ -197,6 +197,8 @@ hi  pandocVerbatimInline                    ctermfg=3  guifg=#b58900  gui=NONE
 hi  pandocVerbatimInlineDefinition          ctermfg=13  guifg=#6c71c4  gui=NONE
 hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi  pandocVerbatimInlineTable               ctermfg=4  guifg=#268bd2  gui=NONE
+
+hi pythonDot                                ctermfg=4  guifg=#268bd2  gui=NONE
 
 hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#93a1a1  guibg=#002b36  gui=NONE
 hi  perlStatementFileDesc                   ctermfg=6  ctermbg=8  guifg=#2aa198  guibg=#002b36  gui=NONE
