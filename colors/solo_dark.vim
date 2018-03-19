@@ -198,6 +198,10 @@ hi  pandocVerbatimInlineDefinition          ctermfg=13  guifg=#6c71c4  gui=NONE
 hi  pandocVerbatimInlineHeading             cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi  pandocVerbatimInlineTable               ctermfg=4  guifg=#268bd2  gui=NONE
 
+hi pythonDot                               cterm=NONE ctermfg=4 guifg=#268bd2 gui=NONE
+hi pythonBrackets                          cterm=NONE ctermfg=9 guifg=#cb4b16 gui=NONE
+hi pythonDocstring                         ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
+
 hi  perlHereDoc                             ctermfg=14  ctermbg=8  guifg=#93a1a1  guibg=#002b36  gui=NONE
 hi  perlStatementFileDesc                   ctermfg=6  ctermbg=8  guifg=#2aa198  guibg=#002b36  gui=NONE
 hi  perlVarPlain                            ctermfg=3  ctermbg=8  guifg=#b58900  guibg=#002b36  gui=NONE
