@@ -32,6 +32,7 @@ hi  HelpExample                             ctermfg=14  guifg=#93a1a1  gui=NONE
 hi  Identifier                              ctermfg=4  guifg=#268bd2  gui=NONE
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#cb4b16  gui=standout
 hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
+hi  pythonDocstring                                  ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#dc322f  guibg=#586e75  gui=NONE
 hi  ModeMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  MoreMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
