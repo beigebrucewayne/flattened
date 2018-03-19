@@ -35,7 +35,7 @@ hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#1f4a54
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#dc322f  guibg=#586e75  gui=NONE
 hi  ModeMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  MoreMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
-hi  NonText                                 cterm=NONE  ctermfg=11  guifg=#657b83  gui=NONE
+hi  NonText                                 ctermfg=bg  guifg=#bg
 hi  Pmenu                                   cterm=reverse  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  gui=reverse
 hi  PmenuSbar                               cterm=reverse  ctermfg=7  ctermbg=12  guifg=#eee8d5  guibg=#839496  gui=reverse
 hi  PmenuSel                                cterm=reverse  ctermfg=10  ctermbg=7  guifg=#586e75  guibg=#eee8d5  gui=reverse
