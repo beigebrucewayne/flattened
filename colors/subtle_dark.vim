@@ -1,14 +1,15 @@
+set background=dark
+
 hi clear
 
 if exists('syntax_on')
   syntax reset
 endif
 
-let colors_name = 'subtle_dark'
+let g:colors_name = 'subtle_dark'
 
 hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#839496  guibg=#002b36  gui=NONE
 
-set background=dark
 
 hi  ColorColumn                             ctermbg=0  guibg=#073642  gui=NONE
 hi  Comment                                 ctermfg=10  guifg=#1f4a54  gui=italic
@@ -304,7 +305,9 @@ hi clear helpLeadBlank
 hi clear helpNormal
 hi clear pandocTableStructre
 
+
 if has('nvim')
+  let g:terminal_color_background='#002b36'
   let g:terminal_color_0  = '#073642'
   let g:terminal_color_1  = '#dc322f'
   let g:terminal_color_2  = '#859900'
