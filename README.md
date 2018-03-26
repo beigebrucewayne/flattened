@@ -18,7 +18,11 @@ let g:indentLine_color_gui = "#073642"
 ```
 
 ### Flattened (original)
-![flattened](https://i.imgur.com/87Q9Ubw.png)
+
+![fdark](https://i.imgur.com/q7NXM7u.png)
+![flight](https://i.imgur.com/Y09h6mr.png)
 
 ### Subtle Solo (updated)
-![minsolo](https://i.imgur.com/e98a75F.png)
+
+![sdark](https://i.imgur.com/ABZJGkW.png)
+![slight](https://i.imgur.com/KzWguzh.png)
