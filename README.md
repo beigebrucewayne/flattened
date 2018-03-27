@@ -10,6 +10,7 @@ Additionally, for proper Indentation Line coloring see below and use the followi
 " << INDENT LINE >> {{{
 
 let g:indentLine_char = '¦'
+
 " subtle light
 let g:indentLine_color_gui = "#eee8d5"
 " subtle dark
@@ -17,12 +18,12 @@ let g:indentLine_color_gui = "#073642"
 " }}}
 ```
 
-### Flattened (original)
-
-![fdark](https://i.imgur.com/q7NXM7u.png)
-![flight](https://i.imgur.com/Y09h6mr.png)
-
 ### Subtle Solo (updated)
 
 ![sdark](https://i.imgur.com/kmhTimh.png)
 ![slight](https://i.imgur.com/VxatK5s.png)
+
+### Flattened (original)
+
+![fdark](https://i.imgur.com/q7NXM7u.png)
+![flight](https://i.imgur.com/Y09h6mr.png)
