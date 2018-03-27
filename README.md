@@ -24,5 +24,5 @@ let g:indentLine_color_gui = "#073642"
 
 ### Subtle Solo (updated)
 
-![sdark](https://i.imgur.com/ABZJGkW.png)
-![slight](https://i.imgur.com/KzWguzh.png)
+![sdark](https://i.imgur.com/kmhTimh.png)
+![slight](https://i.imgur.com/VxatK5s.png)
