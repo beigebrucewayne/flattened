@@ -34,26 +34,36 @@ Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). 
 
 Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). This option is selected due to support of `pythonDocstring`.
 
-Additionally, for proper Indentation Line coloring see below and use the following plugin - [here](https://github.com/Yggdroot/indentLine).
+### Subtle Solo
+
+![sdark](https://i.imgur.com/kmhTimh.png)
+![slight](https://i.imgur.com/VxatK5s.png)
+
+## Installation
+
+```vim
+" Assuming vim-plug
+Plug 'beigebrucewayne/subtle_solo'
+
+" colorscheme
+colorscheme subtle_? (dark/light)
+```
+
+## IndentLine
+
+To get the indentation line coloring from above, see below, and use the following plugin - [here](https://github.com/Yggdroot/indentLine).
 
 ```vim
 " << INDENT LINE >> {{{
 
 let g:indentLine_char = '¦'
 
+" Choose one or the other
+
 " subtle light
 let g:indentLine_color_gui = "#eee8d5"
+
 " subtle dark
 let g:indentLine_color_gui = "#073642"
 " }}}
 ```
-
-### Subtle Solo (updated)
-
-![sdark](https://i.imgur.com/kmhTimh.png)
-![slight](https://i.imgur.com/VxatK5s.png)
-
-### Flattened (original)
-
-![fdark](https://i.imgur.com/q7NXM7u.png)
-![flight](https://i.imgur.com/Y09h6mr.png)
