@@ -30,7 +30,7 @@
                                         200,000 credits
 ```
 
-Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). The main focus was to make everything far more subtle. Overall, should allow you to focus more on the code, and less on the noise.
+Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). The purpose of the changes was to make the focal point the code, and nothing else.
 
 Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). This option is selected due to support of `pythonDocstring`.
 
@@ -47,6 +47,14 @@ Plug 'beigebrucewayne/subtle_solo'
 
 " colorscheme
 colorscheme subtle_? (dark/light)
+```
+
+## Tmux
+
+Add the following to your `.tmux.conf`
+
+```text
+set-option -ga terminal-overrides ",xterm-256color:Tc"
 ```
 
 ## IndentLine
