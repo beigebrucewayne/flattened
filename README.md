@@ -34,9 +34,12 @@ Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). 
 
 Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). This option is selected due to support of `pythonDocstring`.
 
-### Subtle Solo
+### Subtle Dark
 
 ![sdark](https://i.imgur.com/Arxa4qv.png)
+
+### Subtle Light
+
 ![slight](https://i.imgur.com/jVflIzk.png)
 
 ## Installation
