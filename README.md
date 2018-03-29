@@ -36,8 +36,8 @@ Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). 
 
 ### Subtle Solo
 
-![sdark](https://i.imgur.com/kmhTimh.png)
-![slight](https://i.imgur.com/VxatK5s.png)
+![sdark](https://i.imgur.com/Arxa4qv.png)
+![slight](https://i.imgur.com/jVflIzk.png)
 
 ## Installation
 
