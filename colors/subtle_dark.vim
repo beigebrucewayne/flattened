@@ -56,9 +56,6 @@ hi  Statement                               ctermfg=2  guifg=#719e07  gui=NONE
 
 hi  StatusLine                              ctermfg=14  ctermbg=0  guibg=#073642 guifg=#002b36 gui=BOLD
 hi  StatusLineNC                            ctermfg=11  ctermbg=0  guifg=#073642 guibg=#002b36 gui=NONE
-" hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#073642  guisp=#93a1a1  gui=NONE
-" hi  StatusLine                              ctermfg=14  ctermbg=0  guibg=#1f4a54 guifg=#002b36 gui=BOLD
-" hi  StatusLineNC                            ctermfg=11  ctermbg=0  guifg=#1f4a54 guibg=#002b36 gui=NONE
 
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline

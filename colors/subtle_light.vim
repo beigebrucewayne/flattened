@@ -53,8 +53,10 @@ hi SpellCap                                cterm=undercurl  ctermfg=NONE  ctermb
 hi SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#b58900
 hi SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#2aa198
 hi Statement                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE
-hi StatusLine                              ctermfg=10  ctermbg=7  guibg=#c0bbab  guifg=#fdf6e3 gui=BOLD
-hi StatusLineNC                            ctermfg=12  ctermbg=7  guifg=#c0bbab  guibg=#fdf6e3 gui=NONE
+
+hi StatusLine                              ctermfg=10  ctermbg=7  guibg=#eee8d5 guifg=#fdf6e3 gui=BOLD
+hi StatusLineNC                            ctermfg=12  ctermbg=7  guifg=#eee8d5 guibg=#fdf6e3 gui=NONE
+
 hi TabLine                                 cterm=underline  ctermfg=11  ctermbg=7  gui=underline  guifg=#657b83  guibg=#eee8d5  guisp=#657b83
 hi TabLineFill                             cterm=underline  ctermfg=11  ctermbg=7  gui=underline  guifg=#657b83  guibg=#eee8d5  guisp=#657b83
 hi TabLineSel                              cterm=underline,reverse  ctermfg=14  ctermbg=0  gui=underline,reverse  guifg=#93a1a1  guibg=#073642  guisp=#657b83
