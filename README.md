@@ -78,3 +78,7 @@ let g:indentLine_color_gui = "#eee8d5"
 let g:indentLine_color_gui = "#073642"
 " }}}
 ```
+
+## Terminal
+
+Terminal used in screenshots is [alacritty](https://github.com/jwilm/alacritty).
