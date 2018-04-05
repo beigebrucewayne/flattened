@@ -34,10 +34,13 @@ Borrows heavily from [romainl/flattened](https://github.com/romainl/flattened). 
 
 Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). This option is selected due to support of `pythonDocstring`.
 
-### Subtle Solo
+### Subtle Dark
 
-![sdark](https://i.imgur.com/kmhTimh.png)
-![slight](https://i.imgur.com/VxatK5s.png)
+![sdark](https://i.imgur.com/Arxa4qv.png)
+
+### Subtle Light
+
+![slight](https://i.imgur.com/jVflIzk.png)
 
 ## Installation
 
@@ -75,3 +78,7 @@ let g:indentLine_color_gui = "#eee8d5"
 let g:indentLine_color_gui = "#073642"
 " }}}
 ```
+
+## Terminal
+
+Terminal used in screenshots is [alacritty](https://github.com/jwilm/alacritty).
