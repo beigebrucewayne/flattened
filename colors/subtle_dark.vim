@@ -30,7 +30,7 @@ hi  ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NO
 hi  FoldColumn                              ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  gui=NONE
 hi  Folded                                  cterm=NONE,underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#002b36  gui=NONE
 hi  HelpExample                             ctermfg=14  guifg=#93a1a1  gui=NONE
-hi  Identifier                              ctermfg=4  guifg=#268bd2  gui=NONE
+hi  Identifier                              ctermfg=4  guifg=#268bd2  gui=BOLD
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#cb4b16  gui=standout
 hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
 hi  pythonDocstring                         ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
@@ -52,7 +52,7 @@ hi  SpellBad                                cterm=undercurl  ctermfg=NONE  cterm
 hi  SpellCap                                cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#6c71c4  gui=undercurl
 hi  SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#b58900  gui=undercurl
 hi  SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#2aa198  gui=undercurl
-hi  Statement                               ctermfg=2  guifg=#719e07  gui=NONE
+hi  Statement                               ctermfg=2  guifg=#719e07  gui=BOLD
 
 hi  StatusLine                              ctermfg=14  ctermbg=0  guibg=#073642 guifg=#002b36 gui=BOLD
 hi  StatusLineNC                            ctermfg=11  ctermbg=0  guifg=#073642 guibg=#002b36 gui=NONE

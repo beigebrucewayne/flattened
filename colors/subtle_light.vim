@@ -1,4 +1,3 @@
-
 set background=light
 hi clear
 
@@ -32,7 +31,7 @@ hi ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NON
 hi FoldColumn                              cterm=NONE  ctermfg=11  ctermbg=7  guifg=#657b83  guibg=#eee8d5  gui=NONE
 hi Folded                                  cterm=NONE,underline  ctermfg=11  ctermbg=7  guifg=#657b83  guibg=#eee8d5  guisp=#fdf6e3  gui=NONE
 hi HelpExample                             cterm=NONE  ctermfg=10  guifg=#586e75  gui=NONE
-hi Identifier                              cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
+hi Identifier                              cterm=NONE  ctermfg=4  guifg=#268bd2  gui=BOLD
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#cb4b16
 hi LineNr                                  cterm=NONE  ctermfg=7  ctermbg=15  guifg=#c0bbab  gui=NONE
 hi pythonDocstring                         cterm=NONE  ctermfg=14  ctermbg=7  guifg=#c0bbab  gui=NONE
