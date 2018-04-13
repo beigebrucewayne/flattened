@@ -35,7 +35,6 @@ hi Identifier                              cterm=BOLD  ctermfg=4  guifg=#268bd2 
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#cb4b16
 hi LineNr                                  cterm=NONE  ctermfg=7  ctermbg=15  guifg=#c0bbab  gui=NONE
 hi pythonDocstring                         cterm=NONE  ctermfg=14  ctermbg=7  guifg=#c0bbab  gui=NONE
-hi pythonInclude gui=BOLD
 hi MatchParen                              cterm=NONE  ctermfg=1  ctermbg=14  gui=NONE  guifg=#dc322f  guibg=#93a1a1  gui=NONE
 hi ModeMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
 hi MoreMsg                                 cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
