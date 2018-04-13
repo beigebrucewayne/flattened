@@ -31,7 +31,7 @@ hi ErrorMsg                                cterm=reverse  ctermfg=1  ctermbg=NON
 hi FoldColumn                              cterm=NONE  ctermfg=11  ctermbg=7  guifg=#657b83  guibg=#eee8d5  gui=NONE
 hi Folded                                  cterm=NONE,underline  ctermfg=11  ctermbg=7  guifg=#657b83  guibg=#eee8d5  guisp=#fdf6e3  gui=NONE
 hi HelpExample                             cterm=NONE  ctermfg=10  guifg=#586e75  gui=NONE
-hi Identifier                              cterm=NONE  ctermfg=4  guifg=#268bd2  gui=BOLD
+hi Identifier                              cterm=BOLD  ctermfg=4  guifg=#268bd2  gui=BOLD
 hi IncSearch                               cterm=standout  ctermfg=9  gui=standout  guifg=#cb4b16
 hi LineNr                                  cterm=NONE  ctermfg=7  ctermbg=15  guifg=#c0bbab  gui=NONE
 hi pythonDocstring                         cterm=NONE  ctermfg=14  ctermbg=7  guifg=#c0bbab  gui=NONE
@@ -43,7 +43,7 @@ hi Pmenu                                   cterm=reverse  ctermfg=11  ctermbg=7 
 hi PmenuSbar                               cterm=reverse  ctermfg=0  ctermbg=11  guifg=#073642  guibg=#657b83  gui=reverse
 hi PmenuSel                                cterm=reverse  ctermfg=14  ctermbg=0  guifg=#93a1a1  guibg=#073642  gui=reverse
 hi PmenuThumb                              cterm=reverse  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=reverse
-hi PreProc                                 cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
+hi PreProc                                 cterm=BOLD  ctermfg=9  guifg=#cb4b16  gui=BOLD
 hi Question                                cterm=NONE  ctermfg=6  gui=NONE  guifg=#2aa198  gui=NONE
 hi Search                                  cterm=reverse  ctermfg=3  ctermbg=NONE  guifg=#b58900  guibg=NONE gui=reverse
 hi SignColumn                              cterm=NONE  ctermfg=11  ctermbg=NONE  guifg=#657b83  guibg=NONE  gui=NONE
@@ -53,7 +53,7 @@ hi SpellBad                                cterm=undercurl ctermfg=NONE  ctermbg
 hi SpellCap                                cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#6c71c4
 hi SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#b58900
 hi SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#2aa198
-hi Statement                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE gui=BOLD
+hi Statement                               cterm=BOLD  ctermfg=2  guifg=#719e07  gui=NONE gui=BOLD
 
 hi StatusLine                              ctermfg=10  ctermbg=7  guibg=#eee8d5 guifg=#fdf6e3 gui=BOLD
 hi StatusLineNC                            ctermfg=12  ctermbg=7  guifg=#eee8d5 guibg=#fdf6e3 gui=NONE
