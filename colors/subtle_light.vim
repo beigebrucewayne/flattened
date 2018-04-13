@@ -1,5 +1,5 @@
-set background=light
 
+set background=light
 hi clear
 
 if exists('syntax_on')
@@ -18,8 +18,10 @@ hi Conceal                                 cterm=NONE  ctermfg=4  guifg=#268bd2 
 hi Constant                                cterm=NONE  ctermfg=6  guifg=#2aa198  gui=NONE
 hi Cursor                                  cterm=NONE  ctermfg=15  ctermbg=11  guifg=#fdf6e3  guibg=#657b83  gui=NONE
 hi CursorColumn                            cterm=NONE  ctermbg=7  guibg=#eee8d5  gui=NONE
+
+hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=NONE
 hi CursorLine                              cterm=NONE  ctermbg=7  guibg=#eee8d5  guisp=#586e75  gui=NONE
-hi CursorLineNr                            cterm=NONE  ctermfg=4  guibg=#eee8d5  guifg=#268bd2
+hi CursorLineNr                            cterm=NONE  ctermfg=4  guibg=#eee8d5  guifg=#268bd2 gui=BOLD
 hi DiffAdd                                 cterm=NONE  ctermfg=2  ctermbg=7  gui=NONE  guifg=#719e07  guibg=#eee8d5  guisp=#719e07  gui=NONE
 hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#b58900  guibg=#eee8d5  guisp=#b58900  gui=NONE
 hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#dc322f  guibg=#eee8d5  gui=NONE
@@ -52,7 +54,7 @@ hi SpellBad                                cterm=undercurl ctermfg=NONE  ctermbg
 hi SpellCap                                cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#6c71c4
 hi SpellLocal                              cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#b58900
 hi SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  gui=undercurl  guisp=#2aa198
-hi Statement                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE
+hi Statement                               cterm=NONE  ctermfg=2  guifg=#719e07  gui=NONE gui=BOLD
 
 hi StatusLine                              ctermfg=10  ctermbg=7  guibg=#eee8d5 guifg=#fdf6e3 gui=BOLD
 hi StatusLineNC                            ctermfg=12  ctermbg=7  guifg=#eee8d5 guibg=#fdf6e3 gui=NONE
