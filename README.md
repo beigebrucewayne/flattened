@@ -46,7 +46,7 @@ Suggested python syntax highlighting plugin - [here](Hyleus/vim-python-syntax). 
 
 ```vim
 " Assuming vim-plug
-Plug 'beigebrucewayne/subtle_solo'
+Plug 'kadekillary/subtle_solo'
 
 " colorscheme
 colorscheme subtle_? (dark/light)
