@@ -12,14 +12,14 @@ hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#839496
 
 
 hi  ColorColumn                             ctermbg=0  guibg=#073642  gui=NONE
-hi  Comment                                 ctermfg=10  guifg=#1f4a54  gui=italic
+hi  Comment                                 ctermfg=0  guifg=#1f4a54  gui=italic
 hi  ConId                                   ctermfg=3  guifg=#b58900  gui=NONE
 hi  Conceal                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  Constant                                ctermfg=6  guifg=#2aa198  gui=NONE
 hi  Cursor                                  ctermfg=8  ctermbg=12  guifg=#002b36  guibg=#839496  gui=NONE
 hi  CursorColumn                            ctermbg=0  guibg=#073642  gui=NONE
 hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#073642  guisp=#93a1a1  gui=NONE
-hi  CursorLineNr                            cterm=NONE ctermfg=11  guifg=#268bd2  guibg=#073642
+hi  CursorLineNr                            ctermbg=0 ctermfg=4  guifg=#268bd2  guibg=#073642
 hi  DiffAdd                                 ctermfg=2  ctermbg=0  guifg=#719e07  guibg=#073642  guisp=#719e07  gui=NONE
 hi  DiffChange                              ctermfg=3  ctermbg=0  guifg=#b58900  guibg=#073642  guisp=#b58900  gui=NONE
 hi  DiffDelete                              ctermfg=1  ctermbg=0  guifg=#dc322f  guibg=#073642  gui=NONE
@@ -32,8 +32,8 @@ hi  Folded                                  cterm=NONE,underline  ctermfg=12  ct
 hi  HelpExample                             ctermfg=14  guifg=#93a1a1  gui=NONE
 hi  Identifier                              ctermfg=4  cterm=BOLD guifg=#268bd2  gui=BOLD
 hi  IncSearch                               cterm=standout  ctermfg=9  guifg=#cb4b16  gui=standout
-hi  LineNr                                  ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
-hi  pythonDocstring                         ctermfg=10  ctermbg=0  guifg=#1f4a54  gui=NONE
+hi  LineNr                                  ctermfg=0  ctermbg=8  guifg=#1f4a54  gui=NONE
+hi  pythonDocstring                         ctermfg=0  ctermbg=8  guifg=#1f4a54  gui=NONE
 hi  MatchParen                              cterm=NONE  ctermfg=1  ctermbg=10  guifg=#dc322f  guibg=#586e75  gui=NONE
 hi  ModeMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  MoreMsg                                 ctermfg=4  guifg=#268bd2  gui=NONE
@@ -54,8 +54,8 @@ hi  SpellLocal                              cterm=undercurl  ctermfg=NONE  cterm
 hi  SpellRare                               cterm=undercurl  ctermfg=NONE  ctermbg=NONE  guisp=#2aa198  gui=undercurl
 hi  Statement                               ctermfg=2  cterm=BOLD guifg=#719e07  gui=BOLD
 
-hi  StatusLine                              ctermfg=14  ctermbg=0  guibg=#073642 guifg=#002b36 gui=BOLD
-hi  StatusLineNC                            ctermfg=11  ctermbg=0  guifg=#073642 guibg=#002b36 gui=NONE
+hi  StatusLine                              ctermfg=0 ctermbg=bg guibg=#073642 guifg=#002b36 gui=BOLD
+hi  StatusLineNC                            ctermfg=0 ctermbg=bg guifg=#073642 guibg=#002b36 gui=NONE
 
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
@@ -64,8 +64,8 @@ hi  Title                                   cterm=NONE  ctermfg=9  guifg=#cb4b16
 hi  Todo                                    cterm=NONE  ctermfg=5  guifg=#d33682  guibg=NONE  gui=bold
 hi  Type                                    ctermfg=3  guifg=#b58900  gui=NONE
 hi  Underlined                              ctermfg=13  guifg=#6c71c4  gui=NONE
-hi  VarId                                   ctermfg=4  guifg=#268bd2  gui=NONE
-hi  VertSplit                               ctermfg=11  ctermbg=11  guifg=#073642  guibg=#073642  gui=NONE
+hi  VarId                                   ctermfg=8  guifg=#268bd2  gui=NONE
+hi  VertSplit                               cterm=NONE ctermfg=0  ctermbg=bg  guifg=#073642  guibg=#073642  gui=NONE
 hi  Visual                                  cterm=reverse  ctermfg=10  ctermbg=8  guibg=#1f4a54
 hi  VisualNOS                               cterm=reverse  ctermbg=0  ctermbg=NONE  guibg=#073642  guifg=NONE  gui=reverse
 hi  WarningMsg                              cterm=NONE  ctermfg=9  guifg=#dc322f  gui=NONE
