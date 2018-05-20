@@ -18,7 +18,7 @@ hi  Conceal                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  Constant                                ctermfg=6  guifg=#2aa198  gui=NONE
 hi  Cursor                                  ctermfg=8  ctermbg=12  guifg=#002b36  guibg=#839496  gui=NONE
 hi  CursorColumn                            ctermbg=0  guibg=#073642  gui=NONE
-hi  CursorLine                              cterm=NONE  ctermbg=0  guibg=#073642  guisp=#93a1a1  gui=NONE
+hi  CursorLine                              cterm=NONE  ctermfg=NONE ctermbg=0  guibg=#073642  guisp=#93a1a1  gui=NONE
 hi  CursorLineNr                            ctermbg=0 ctermfg=4  guifg=#268bd2  guibg=#073642
 hi  DiffAdd                                 ctermfg=2  ctermbg=0  guifg=#719e07  guibg=#073642  guisp=#719e07  gui=NONE
 hi  DiffChange                              ctermfg=3  ctermbg=0  guifg=#b58900  guibg=#073642  guisp=#b58900  gui=NONE
