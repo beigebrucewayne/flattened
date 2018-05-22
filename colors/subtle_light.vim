@@ -66,7 +66,7 @@ hi Todo                                    cterm=NONE  ctermfg=5  guifg=#d33682 
 hi Type                                    cterm=NONE  ctermfg=3  guifg=#b58900  gui=NONE
 hi Underlined                              cterm=NONE  ctermfg=13  guifg=#6c71c4  gui=NONE
 hi VarId                                   cterm=NONE  ctermfg=4  guifg=#268bd2  gui=NONE
-hi VertSplit                               cterm=NONE  ctermfg=12  ctermbg=12  guifg=#eee8d5  guibg=#eee8d5  gui=NONE
+hi VertSplit                               cterm=NONE  ctermfg=7  ctermbg=7  guifg=#eee8d5  guibg=#eee8d5  gui=NONE
 hi Visual                                  cterm=reverse  ctermfg=14  ctermbg=15 gui=reverse  guifg=#93a1a1  guibg=#fdf6e3  guibg=NONE
 hi VisualNOS                               cterm=reverse  ctermbg=7 gui=reverse  guibg=#eee8d5  guibg=NONE
 hi WarningMsg                              cterm=NONE  ctermfg=9  gui=NONE  guifg=#dc322f  gui=NONE
