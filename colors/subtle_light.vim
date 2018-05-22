@@ -20,7 +20,7 @@ hi CursorColumn                            cterm=NONE  ctermbg=7  guibg=#eee8d5 
 
 hi Normal                                  cterm=NONE  ctermfg=11  ctermbg=15  guifg=#657b83  guibg=#fdf6e3  gui=NONE
 hi CursorLine                              cterm=NONE  ctermbg=7  guibg=#eee8d5  guisp=#586e75  gui=NONE
-hi CursorLineNr                            cterm=NONE  ctermfg=4  guibg=#eee8d5  guifg=#268bd2 gui=BOLD
+hi CursorLineNr                            cterm=NONE  ctermbg=7  ctermfg=4  guibg=#eee8d5  guifg=#268bd2 gui=BOLD
 hi DiffAdd                                 cterm=NONE  ctermfg=2  ctermbg=7  gui=NONE  guifg=#719e07  guibg=#eee8d5  guisp=#719e07  gui=NONE
 hi DiffChange                              cterm=NONE  ctermfg=3  ctermbg=7  gui=NONE  guifg=#b58900  guibg=#eee8d5  guisp=#b58900  gui=NONE
 hi DiffDelete                              cterm=NONE  ctermfg=1  ctermbg=7  gui=NONE  guifg=#dc322f  guibg=#eee8d5  gui=NONE
