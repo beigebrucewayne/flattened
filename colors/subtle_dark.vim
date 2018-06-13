@@ -55,7 +55,7 @@ hi  SpellRare                               cterm=undercurl  ctermfg=NONE  cterm
 hi  Statement                               ctermfg=2  cterm=BOLD guifg=#719e07  gui=BOLD
 
 hi  StatusLine                              ctermfg=0 ctermbg=bg guibg=#073642 guifg=#002b36 gui=BOLD
-hi  StatusLineNC                            ctermfg=0 ctermbg=bg guifg=#073642 guibg=#002b36 gui=NONE
+hi  StatusLineNC                            ctermfg=0 ctermbg=bg guibg=#073642 guifg=#002b36 gui=NONE
 
 hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
 hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
