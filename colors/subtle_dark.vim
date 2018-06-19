@@ -57,9 +57,9 @@ hi  Statement                               ctermfg=2  cterm=BOLD guifg=#719e07 
 hi  StatusLine                              ctermfg=0 ctermbg=bg guibg=#073642 guifg=#002b36 gui=BOLD
 hi  StatusLineNC                            ctermfg=0 ctermbg=bg guibg=#073642 guifg=#002b36 gui=NONE
 
-hi  TabLine                                 cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
-hi  TabLineFill                             cterm=underline  ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496  gui=underline
-hi  TabLineSel                              cterm=underline,reverse  ctermfg=10  ctermbg=7  guifg=#586e75  guibg=#eee8d5  guisp=#839496  gui=underline,reverse
+hi  TabLine                                 ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496
+hi  TabLineFill                             ctermfg=12  ctermbg=0  guifg=#839496  guibg=#073642  guisp=#839496
+hi  TabLineSel                              cterm=reverse  ctermfg=10  ctermbg=7  guifg=#586e75  guibg=#eee8d5  guisp=#839496  gui=reverse
 hi  Title                                   cterm=NONE  ctermfg=9  guifg=#cb4b16  gui=NONE
 hi  Todo                                    cterm=NONE  ctermfg=5  guifg=#d33682  guibg=NONE  gui=bold
 hi  Type                                    ctermfg=3  guifg=#b58900  gui=NONE
