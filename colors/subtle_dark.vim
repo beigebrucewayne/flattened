@@ -12,7 +12,7 @@ hi  Normal                                  ctermfg=12  ctermbg=8  guifg=#839496
 
 
 hi  ColorColumn                             ctermbg=0  guibg=#073642  gui=NONE
-hi  Comment                                 ctermfg=0  guifg=#073642
+hi  Comment                                 ctermfg=0  guifg=#385e67
 hi  ConId                                   ctermfg=3  guifg=#b58900  gui=NONE
 hi  Conceal                                 ctermfg=4  guifg=#268bd2  gui=NONE
 hi  Constant                                ctermfg=6  guifg=#2aa198  gui=NONE
